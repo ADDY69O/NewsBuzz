@@ -6,6 +6,13 @@ NewsBuzz is a news reader app built with [React](https://reactjs.org/) that uses
 - Browse top news stories from various categories 
 - User-friendly interface
 
+## Preview
+
+
+https://user-images.githubusercontent.com/89722531/214878196-8db1fad1-e169-4b93-995c-d2475e9cbda8.mp4
+
+
+
 ## Installation
 ```bash
 git clone https://github.com/ADDY69O/NewsBuzz.git
